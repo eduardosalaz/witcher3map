@@ -2,6 +2,12 @@
 --------------------------------------
 Unofficial Witcher 3 interactive maps, with a mobile & tablet friendly design faithful to the game. Any contributions, suggestions, bug reports, etc are welcome. Currently 'Skellige', 'Velen & Novigrad' & 'White Orchard' maps are complete, 'Kaer Morhen' coming soon.
 
+As far as I know, there is still lot's of stuff to complete:
+# TODO:
+* New POI from Expansions (Missing a lot of points in Northeast Novigrad from Hearts of Stone)
+* Check Skellige
+* Check Toussaint (Haven't played Blood and Wine yet)
+
 #### Features
 * Interactive map featuring all markers in game (plus some extra ones)
 * Multiple languages (in progress, [help here](https://crowdin.com/project/witcher3map))
